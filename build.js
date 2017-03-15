@@ -2,6 +2,6 @@
 (function () {
     "use strict";
 
-    console.log("Hello World");
+    console.log("\n\nBUILD OK");
 
 }());
