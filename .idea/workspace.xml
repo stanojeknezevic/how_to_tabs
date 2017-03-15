@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fdf41bbb-4ee0-4309-b2a9-59b84b66f5a7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Budalasti.txt" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/Budalasti.txt" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/jake.cmd" afterPath="$PROJECT_DIR$/jake.cmd" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -60,21 +61,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="jake.cmd" pinned="false" current-in-tab="false">
+      <file leaf-file-name="jake.cmd" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/jake.cmd">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Budalasti.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Budalasti.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
               <folding />
             </state>
           </provider>
@@ -101,6 +92,7 @@
         <option value="$PROJECT_DIR$/build.js" />
         <option value="$PROJECT_DIR$/Jakefile.js" />
         <option value="$PROJECT_DIR$/package.json" />
+        <option value="$PROJECT_DIR$/Budalasti.txt" />
         <option value="$PROJECT_DIR$/jake.cmd" />
       </list>
     </option>
@@ -239,12 +231,12 @@
       <updated>1489523583513</updated>
       <workItem from="1489523584651" duration="664000" />
       <workItem from="1489524273705" duration="1335000" />
-      <workItem from="1489564443187" duration="4830000" />
+      <workItem from="1489564443187" duration="5257000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6829000" />
+    <option name="totallyTimeSpent" value="7256000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="164" y="531" width="1400" height="1000" extended-state="0" />
@@ -343,18 +335,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/jake.cmd">
+    <entry file="file://$PROJECT_DIR$/Budalasti.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="25" lean-forward="false" selection-start-line="0" selection-start-column="25" selection-end-line="0" selection-end-column="25" />
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Budalasti.txt">
+    <entry file="file://$PROJECT_DIR$/jake.cmd">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="9" selection-end-line="0" selection-end-column="9" />
           <folding />
         </state>
       </provider>
